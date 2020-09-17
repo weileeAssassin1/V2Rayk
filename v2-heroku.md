@@ -1,4 +1,4 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/yeahwu/kinto)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/weileeAssassin1/V2Rayk)
 
 > 提醒： 滥用可能导致账户被BAN！！！
 
@@ -56,7 +56,7 @@ Heroku上部署v2ray和tor，部署成功后，可用v2ray客户端直接访问t
             "port": 443,
             "users": [
               {
-                "id": "c95ef1d4-f3ac-4586-96e9-234a37dda068"
+                "id": "29c164fc-f464-11ea-adc1-0242ac120002"
               }
             ]
           }
