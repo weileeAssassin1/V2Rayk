@@ -1,7 +1,7 @@
 > 提醒： 免费空间请不要滥用！！！
 
 本项目支持部署kintohub和heroku两个空间，下面是部署到kintohub方法，部署到heroku方法请见：[Deploy to Heroku
-](https://github.com/yeahwu/kinto/blob/master/v2-heroku.md)
+](https://github.com/weileeAssassin1/V2Rayk/blob/master/v2-heroku.md)
 
 利用kintohub免费空间部署v2ray和tor，部署成功后，可用v2ray客户端直接访问tor网络，比如暗网.onion，v2ray.json文件中设置了路由分流了tor网络，非tor流量不受影响。
 
@@ -26,7 +26,7 @@
 
 ![v2ray](/img/kinto3.jpg)
 
-默认UUID：c95ef1d4-f3ac-4586-96e9-234a37dda068
+默认UUID：29c164fc-f464-11ea-adc1-0242ac120002
 
 ### 修改UUID
 
